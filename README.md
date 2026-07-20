@@ -22,9 +22,14 @@ I use this repository to track my progress in Data Structures, Algorithms, and c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Grvsingl/competitive-programming/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Grvsingl/competitive-programming/tree/master/0136-single-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Grvsingl/competitive-programming/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Grvsingl/competitive-programming/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Grvsingl/competitive-programming/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
