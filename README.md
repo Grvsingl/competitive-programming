@@ -27,11 +27,13 @@ I use this repository to track my progress in Data Structures, Algorithms, and c
 | [0189-rotate-array](https://github.com/Grvsingl/competitive-programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Grvsingl/competitive-programming/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Grvsingl/competitive-programming/tree/master/0485-max-consecutive-ones) |
+| [1207-unique-number-of-occurrences](https://github.com/Grvsingl/competitive-programming/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Grvsingl/competitive-programming/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Grvsingl/competitive-programming/tree/master/0001-two-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/Grvsingl/competitive-programming/tree/master/1207-unique-number-of-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
