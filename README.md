@@ -23,6 +23,7 @@ I use this repository to track my progress in Data Structures, Algorithms, and c
 | ------- |
 | [0001-two-sum](https://github.com/Grvsingl/competitive-programming/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Grvsingl/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Grvsingl/competitive-programming/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Grvsingl/competitive-programming/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Grvsingl/competitive-programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Grvsingl/competitive-programming/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ I use this repository to track my progress in Data Structures, Algorithms, and c
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Grvsingl/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Grvsingl/competitive-programming/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Grvsingl/competitive-programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Grvsingl/competitive-programming/tree/master/0283-move-zeroes) |
 ## Math
@@ -53,5 +55,6 @@ I use this repository to track my progress in Data Structures, Algorithms, and c
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Grvsingl/competitive-programming/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Grvsingl/competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
